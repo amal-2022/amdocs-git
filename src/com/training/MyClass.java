@@ -8,6 +8,8 @@ public class MyClass {
 		System.out.println("Sample");
 		
 		System.out.println("first commit...");
+
+		System.out.println("second commit...");
 	}
 
 }
