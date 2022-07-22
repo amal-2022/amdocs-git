@@ -7,7 +7,7 @@ public class MyClass {
 
 		System.out.println("Sample");
 		
-		System.out.println("Second commit...");
+		System.out.println("first commit...");
 	}
 
 }
